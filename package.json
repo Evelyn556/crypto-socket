@@ -1,0 +1,28 @@
+{
+  "name": "my-crypto-socket",
+  "version": "1.0.0",
+  "description": "my-crypto sockets",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "dependencies": {
+    "abv-ts": "0.0.5",
+    "abv-vfs": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Evelyn556/crypto-socket"
+  },
+  "keywords": [
+    "socket",
+    "websocket"
+  ],
+  "author": {
+    "name": "evelyn"
+  },
+  "license": "MIT"
+}
